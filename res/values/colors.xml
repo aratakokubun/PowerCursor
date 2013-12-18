@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="TextWhite">#FFF</color>
+	<color name="TextGray" >#666</color>
+	<color name="TextBlack">#000</color>
+	<color name="TextGreen">#0F0</color>
+	<color name="TextRed"  >#F00</color>
+		
+	<!-- Tab -->
+	<color name="TabRed">#F00</color>
+	<color name="TabBlue">#00F</color>
+	<color name="TabGreen">#0F0</color>
+	
+	<!-- Space -->
+	<color name="SpaceRed">#F00</color>
+	<color name="SpaceBlue">#00F</color>
+	<color name="SpaceGreen">#3A3</color>
+	<color name="SpaceGray">#888</color>
+</resources>
